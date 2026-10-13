@@ -186,4 +186,5 @@ for sp in site.getsitepackages():
 
 Developed by **Unicodeces**
 
-Powered by [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) (Xintao Wang et al.)
+Powered by [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) (Xintao Wang et al.) 
+<!-- README improvement -->
